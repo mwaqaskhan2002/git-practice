@@ -10,11 +10,11 @@ divide = float(number1) / float(number2)
 
 if operation == "+":
     print ("The sum of the two numbers is:", add)
-elif operation == "+": 
+elif operation == "-": 
     print("The difference of the two numbers is:", subtract)
-elif operation == "+":
+elif operation == "*":
     print ("The product of the two numbers is:", multiply)
-elif operation == "+":
+elif operation == "/":
     print ("The quotient of the two numbers is:", divide)
 else: 
     print("Error Please Try again")
